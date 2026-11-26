@@ -1,0 +1,4 @@
+wcstat
+*.o
+*.bin
+*.txt
